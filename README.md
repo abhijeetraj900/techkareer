@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 TechKareer x Clade Frontend Assignment
 
-## Getting Started
+## 🌐 Live Project
 
-First, run the development server:
+The live version of the project can be accessed [here](https://techkareerassignment-abhijeet-rajs-projects.vercel.app/).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📋 Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is a submission for the TechKareer x Clade frontend engineering assignment. The goal was to convert a given Figma design into a Next.js or React.js application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📌 Project Details
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+**Organization:** Clade, a Venture Studio
 
-## Learn More
+**Stipend:** INR 25K-35K/mo
 
-To learn more about Next.js, take a look at the following resources:
+**Location:** Remote
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Role Types:** Interns, Part-time, and Full-time (slightly more pay for full-time)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Requirements:** Fast-paced individuals with skills in crafting pixel-perfect, beautiful user experiences.
 
-## Deploy on Vercel
+## 🎨 Figma Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The design provided by Clade can be viewed [here](https://figma.com/design/1PsDL6m6lgnCK9Fs6x1fUX/Job-preview-dashboard).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🛠 Tech Stack
+
+- **Framework:** Next.js / React.js
+- **Styling:** CSS / Styled-components / Tailwind CSS (whichever you used)
+- **Other Technologies:** List any other libraries or tools used
+
+## 💻 How to Run Locally
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-repo-name.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd your-repo-name
+    ```
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
+4. Run the development server:
+    ```bash
+    npm run dev
+    ```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## ⏰ Deadline
+
+The project submission deadline was 11:59 PM, 28th June 2024.
+
+## 📧 Contact
+
+For any queries, please contact Abhijeet Raj at [abhijeetraj900@gmail.com](mailto:abhijeetraj900@gmail.com).
